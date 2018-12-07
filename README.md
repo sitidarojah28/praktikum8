@@ -55,11 +55,11 @@ int main()
 
 - berikut flowchatnya
 
-![img](https://github.com/sitidarojah28/praktikum8/blob/master/latihan1/flowchat1.png)
+![img](https://github.com/sitidarojah28/praktikum8/blob/master/flowchat1.png)
 
 - berikut hasilnya
 
-![img](https://github.com/sitidarojah28/praktikum8/blob/master/latihan1/hasil1.png)
+![img](https://github.com/sitidarojah28/praktikum8/blob/master/hasil1.png)
 
 #Latihan2#Perkalian dengan penjumlahan menggunakan fungsi rekursif
 
@@ -71,6 +71,7 @@ if (b==0) //jika nilai b=0 maka hasilnya 0
         return 0;
     else
         return a+kali(a,b-1); // nilai a ditambah (nilai a ditambah nilai b dikurangi 1)
+
 2.Berikut kode lengkapnya
 
 #include <iostream>
@@ -97,11 +98,11 @@ int main()
 
 - berikut flowchatnya
 
-![img](https://github.com/sitidarojah28/praktikum8/blob/master/latihan2/flowchat2.png)
+![img](https://github.com/sitidarojah28/praktikum8/blob/master/flowchat2.png)
 
 -berikut hasilnya 
 
-![img](https://github.com/sitidarojah28/praktikum8/blob/master/latihan2/hasil2.png)
+![img](https://github.com/sitidarojah28/praktikum8/blob/master/hasil2.png)
 
 #Latihan3#Pembagian dengan menggunakan fungsi rekursif
 
@@ -139,5 +140,5 @@ int main()
 
 -berikut hasilnya 
 
-![img](https://github.com/sitidarojah28/praktikum8/blob/master/latihan3/hasil3.png)
+![img](https://github.com/sitidarojah28/praktikum8/blob/master/hasil3.png)
 
